@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elmarcioalmeida
-- 👀 I’m interested in HTML, CSS, JAVASSCRIPT, JAVA
+- 👀 I’m interested in HTML, CSS, JAVASCRIPT, JAVA
 - 🌱 I’m currently learning JAVA  
 - 📫 How to reach me: eliton_marcio@yahoo.com.br
 
